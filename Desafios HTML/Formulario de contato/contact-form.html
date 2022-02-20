@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact form</title>
+</head>
+<body>
+    <fieldset>
+        <legend>Entre em contato</legend>
+        <label for="subject"><strong>Subject:</strong></label>
+<select name="subject selection" id="subject">
+    <option value="">Subject selection</option>
+    <option value="support">Support</option>
+    <option value="suggestion">Suggestions</option>
+    <option value="complain">Complains</option>
+</select>
+<br>
+<div>
+   <h5>Name:</h5>
+    <input type="text">
+</div>
+<br>
+<div>
+    <h5>E-mail:</h5>
+    <input type="text">
+</div>
+<br>
+<div>
+    <h5>Message:</h5>
+   <textarea name="message" id="message" cols="30" rows="10"></textarea>
+</div>
+<br>
+<div>
+    <input type="checkbox" name="subscribe" id="subscribe">
+    <label for="subscribe"><strong>Subscribe to receive new products in your e-mail</strong></label>
+</div>
+<br>
+<button type="submit">Submit</button>
+</fieldset>
+</body>
+</html>
