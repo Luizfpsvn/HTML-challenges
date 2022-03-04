@@ -3,6 +3,11 @@ Diferentes tipos de páginas com diferentes recursos em HTML, para se habituar e
 Todos os desafios de páginas foram propostos enquanto estudava na Rocketseat.
 Tecnologias usadas: HTML
 
+English:Different types of pages with different HTML resources, to get used to and practice writing in HTML, in order to reinforce the bases and start the practical part.
+All page challenges were proposed while studying at Rocketseat.
+Technologies used: HTML
+
+
 Blog post![blogpost](https://user-images.githubusercontent.com/99773088/156732863-5c4b49ec-ac6f-482d-8d3b-d09e0782ebc9.png)
 Formulário de contato (Contact-form) ![contact-form](https://user-images.githubusercontent.com/99773088/156734016-195cfd00-6163-4292-a318-dcb7762ef3e3.png)
 Glossário (Glossary)![glossary](https://user-images.githubusercontent.com/99773088/156734095-ec097028-9db8-4468-942a-e7ae705697f1.png)
