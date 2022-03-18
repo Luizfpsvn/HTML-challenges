@@ -1,3 +1,9 @@
+<strong><p>todos os os meus projetos começam com a descrição em português, um pouco mais em baixo já vem a descrição em inglês.</p>
+<p>all my projects start with the description in portuguese, a little further down the description in english.</p></strong>
+<hr>
+
+
+
 # HTML-challenges
 Diferentes tipos de páginas com diferentes recursos em HTML, para se habituar e praticar a escrita em HTML, com o intuito de reforçar as bases e começar a parte prática.
 Todos os desafios de páginas foram propostos enquanto estudava na Rocketseat.
